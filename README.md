@@ -1,1 +1,1 @@
-IMPORTANT: The following directory must be created in 'scriptfiles/CS-BS/accounts
+IMPORTANT: The following directory must be created in 'scriptfiles/CS-BS/accounts'
